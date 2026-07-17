@@ -57,9 +57,5 @@ The wider OpenTSLM community includes contributors and collaborators across inst
 We are an open community with no gatekeeping whatsoever. We share our infra, knowledge, and experiences. We have a frequent exchange, both physically and virtually, with TSLM researchers all around the world. 
 If you are interested, please join us! Our credo is *sharing is caring*. If you are working on anything that you think is relevant or interesting for the community, please join and share, and we will support. We welcome everyone.
 
-<a href="https://forms.gle/hgv3JmyhFFYH1qCz7"
-   target="_blank"
-   rel="noopener noreferrer">
-    Click here to join
-</a>
+[Click here to join](https://forms.gle/hgv3JmyhFFYH1qCz7)
 
