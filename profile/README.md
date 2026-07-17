@@ -13,11 +13,10 @@ Since it's release, there have been people all around the globe building on our 
 
 ## Our Vision
 
-Time-series data is one of the most common ways the world is measured.
-
+Time-series data is the most common modality measuring the physical world.
 It captures heart rhythms, vital signs, wearable signals, industrial machinery, energy systems, environmental conditions, transportation networks, financial activity, and countless other processes that evolve over time.
 
-Yet most general-purpose AI systems do not understand time series natively. Temporal signals are often reduced to summary statistics, converted into images, or processed by separate specialized models before they can be used by a language model.
+Yet general-purpose AI systems do not understand time series natively. Temporal signals are often reduced to summary statistics, converted into images, or processed by separate specialized and rigid models before they can be used by a language model.
 
 We believe time series should become a first-class modality for foundation models.
 
@@ -34,6 +33,16 @@ A Time Series Language Model should be able to:
 - Generalize across tasks, datasets, sensors, and domains
 
 Our long-term vision is an open ecosystem of multimodal foundation models through which people can interact with temporal data as naturally as they interact with text.
+
+## Enabling the Community and Open Research
+Today, research, data and knowledge around TSLMs and TSFMs is fragmented.
+We build and maintain open foundations that help researchers develop, evaluate, and deploy such models.
+
+**With OpenTSLM, we provide open-source models, architectures, datasets, training code, and reference implementations** for building AI systems that understand time series as a native modality.
+
+**With TimeNet, we provide standardized data and training infrastructure**—including common data formats, a growing cross-domain corpus, a Python SDK, benchmarks, and evaluation tools for TSLMs.
+
+We support open research across the entire field—from new architectures and multimodal reasoning to generation, forecasting, interpretability, safety, and applications in healthcare, wearables, manufacturing, energy, climate, finance, and beyond.
 
 
 ## Who We Are
