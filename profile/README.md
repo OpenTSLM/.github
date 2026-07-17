@@ -9,7 +9,7 @@ Since it's release, there have been people all around the globe building on our 
 
 
 > [!IMPORTANT]
-> We want to bring together the community on TSLMs all around the world to push this field forward, to build **foundational TSLMs** that input and output text and time series: AI that understands temporal sensor data natively, incorporates context, turns signals into action, and enables prompt-based interaction with and generation of time series data.
+> We want to bring together the community on TSLMs all around the world to push this field forward, to build **foundational TSLMs** that input and output text and time series: AI that understands temporal sensor data natively, incorporates context, turns signals into action, and enables prompt-based interaction with and generation of time series data. **We are supporting any research on TSLMs**.
 
 ## Our Vision
 
