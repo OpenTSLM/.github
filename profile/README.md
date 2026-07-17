@@ -40,7 +40,7 @@ We build and maintain open foundations that help researchers develop, evaluate, 
 
 **With OpenTSLM, we provide open-source models, architectures, datasets, training code, and reference implementations** for building AI systems that understand time series as a native modality.
 
-**With TimeNet, we provide standardized data and training infrastructure**—including common data formats, a growing cross-domain corpus, a Python SDK, benchmarks, and evaluation tools for TSLMs.
+**With [TimeNet](docs.timenet.ai), we provide standardized data and training infrastructure**—including common data formats, a growing cross-domain corpus, a Python SDK, benchmarks, and evaluation tools for TSLMs.
 
 We support open research across the entire field—from new architectures and multimodal reasoning to generation, forecasting, interpretability, safety, and applications in healthcare, wearables, manufacturing, energy, climate, finance, and beyond.
 
