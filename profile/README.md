@@ -51,7 +51,7 @@ We are industry veterans from leading frontier AI companies in tech, and researc
 
 We are bringing that experience together to scale OpenTSLM, grow the community, and build the shared infrastructure needed to move the field forward.
 
-The wider OpenTSLM community includes contributors and collaborators across institutions such as Stanford, Harvard, Dartmouth, NUS, ETH Zurich, KAIST, Seattle Children’s Hospital, the University of Zurich, Google, Meta, Microsoft, and AWS.
+The wider OpenTSLM community includes contributors and collaborators across institutions such as Stanford, Harvard, Dartmouth, NUS, ETH Zurich, KAIST, Seattle Children’s Hospital, the University of Zurich, Google, DeepMind, Meta, Microsoft, and AWS.
 
 ## Join us 
 
