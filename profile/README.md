@@ -47,19 +47,11 @@ We support open research across the entire field—from new architectures and mu
 
 ## Who We Are
 
-We are industry veterans from leading technology companies and researchers from academia, with experience building and deploying large-scale AI systems.
+We are industry veterans from leading frontier AI companies in tech, and researchers from academia, with experience building and deploying large-scale AI systems.
 
-Today, we are bringing that experience together to scale OpenTSLM, grow the community, and build the shared infrastructure needed to move the field forward.
+We are bringing that experience together to scale OpenTSLM, grow the community, and build the shared infrastructure needed to move the field forward.
 
 The wider OpenTSLM community includes contributors and collaborators across institutions such as Stanford, Harvard, Dartmouth, NUS, ETH Zurich, KAIST, Seattle Children’s Hospital, the University of Zurich, Google, Meta, Microsoft, and AWS.
-
-## Enabling the community 
-We are supporting any research on time series language models and time series foundation models all around the globe.
-
-
-
-## Building a shared data and infrastructure layer for Time Series Foundation Models
-
 
 ## Join us 
 
